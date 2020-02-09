@@ -1,1 +1,3 @@
-console.log("Hello NodeJS...")
+var person = require('./person');
+
+console.log(person);
